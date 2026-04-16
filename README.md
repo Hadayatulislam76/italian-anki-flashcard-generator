@@ -50,3 +50,15 @@ italian-anki-flashcard-generator/
     ├── page_2.txt
     ├── page_3.txt
     └── page_4.txt
+
+Eample:
+FORM: nata
+WORD: nascere
+BN: জন্মগ্রহণ করা
+SYNONYMS: venire al mondo
+PRESENT: nasco, nasci, nasce, nasciamo, nascete, nascono
+PAST: sono nato/a, sei nato/a, è nato/a, siamo nati/e, siete nati/e, sono nati/e
+FUTURE: nascerò, nascerai, nascerà, nasceremo, nascerete, nasceranno
+EXAMPLE_IT: Sono nata a Roma.
+EXAMPLE_BN: আমি রোমে জন্মেছি।
+---
