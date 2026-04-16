@@ -1,46 +1,61 @@
-# Italian Anki Flashcard Generator
+# 🇮🇹 Italian Anki Flashcard Generator (Python Automation Tool)
 
-This is a simple Python project I built to improve my Italian learning process.
+This is a simple Python project I built to improve my Italian learning process in a more structured and efficient way.
 
-## Why I built this
+---
 
-While learning Italian, I realized that only reading words is not enough.  
-I wanted a better way to learn:
+## 💡 Why I built this
 
-- the actual base verb
-- the meaning in Bangla
-- synonyms
-- present, past, and future tense
-- example sentences
+While learning Italian, I realized that just reading words is not enough.
 
-So I built this small Python tool to create and update Anki flashcards automatically.
+I needed a better system to:
 
-## What this project does
+* Understand the **actual base verb (infinitive)**
+* Learn meanings in **Bangla**
+* See **synonyms**
+* Practice **present, past, and future tense**
+* Learn through **real example sentences**
 
-This script reads structured data from text files and creates or updates Anki flashcards using AnkiConnect.
+So I built this Python tool to automatically create and update Anki flashcards.
 
-Each card can include:
+---
 
-- FORM (the word form found in the book)
-- WORD (the actual base word / infinitive)
-- Bangla meaning
-- Italian synonyms
-- Present / Past / Future forms
-- Italian example sentence
-- Bangla meaning of the example sentence
+## ⚙️ What this project does
 
-## Book source
+This script:
+
+* Reads structured data from text files
+* Creates or updates flashcards in Anki using **AnkiConnect**
+
+Each card includes:
+
+* **FORM** → word as found in the book
+* **WORD** → base verb (infinitive)
+* **Bangla meaning**
+* **Italian synonyms**
+* **Present / Past / Future tense**
+* **Example sentence (Italian + Bangla)**
+
+---
+
+## 📘 Book Source
 
 I am learning from the book:
 
-**FACILE - Libro di Italiano per Studenti Stranieri**  
+**"FACILE - Libro di Italiano per Studenti Stranieri"**
 by **Paolo Cassaiani and Laura Mattioli**
 
-I collect words page by page from this book and turn them into flashcards for repeated practice.
+For each page:
 
-## Project structure
+1. I collect vocabulary
+2. Convert them into structured flashcards
+3. Practice them using Anki
 
-```text
+---
+
+## 📁 Project Structure
+
+```
 italian-anki-flashcard-generator/
 ├── anki_page_importer.py
 ├── requirements.txt
@@ -50,8 +65,13 @@ italian-anki-flashcard-generator/
     ├── page_2.txt
     ├── page_3.txt
     └── page_4.txt
+```
 
-Eample:
+---
+
+## 📄 Example Input
+
+```
 FORM: nata
 WORD: nascere
 BN: জন্মগ্রহণ করা
@@ -62,7 +82,46 @@ FUTURE: nascerò, nascerai, nascerà, nasceremo, nascerete, nasceranno
 EXAMPLE_IT: Sono nata a Roma.
 EXAMPLE_BN: আমি রোমে জন্মেছি।
 ---
-How to Run:
-1. Go to CMD
-2. Go to folder through CMD
-3. Then run : python anki_page_importer.py --root-deck "Italian-Flashcards" --page "Page-1" --txt "pages/page_1.txt"
+```
+
+---
+
+## ▶️ How to Run
+
+1. Open Command Prompt (CMD)
+2. Go to your project folder
+3. Run:
+
+```
+python anki_page_importer.py --root-deck "Italian-Flashcards" --page "Page-1" --txt "pages/page_1.txt"
+```
+
+---
+
+## 🎯 Goal
+
+My goal is to build a consistent learning system using:
+
+* Python
+* Anki
+* Structured repetition
+
+I will continue updating this repository as I learn more.
+
+👉 This method can be used by anyone to learn any language in a structured way.
+
+---
+
+## 🔧 Requirements
+
+* Python
+* requests
+* Anki
+* AnkiConnect add-on
+
+---
+
+## ⭐
+
+This is a personal learning project.
+I will keep improving it as I continue my Italian learning journey.
