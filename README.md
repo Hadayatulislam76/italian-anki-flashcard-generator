@@ -62,4 +62,7 @@ FUTURE: nascerò, nascerai, nascerà, nasceremo, nascerete, nasceranno
 EXAMPLE_IT: Sono nata a Roma.
 EXAMPLE_BN: আমি রোমে জন্মেছি।
 ---
-How to Run: python anki_page_importer.py --root-deck "Italian-Flashcards" --page "Page-1" --txt "pages/page_1.txt"
+How to Run:
+1. Go to CMD
+2. Go to folder through CMD
+3. Then run : python anki_page_importer.py --root-deck "Italian-Flashcards" --page "Page-1" --txt "pages/page_1.txt"
