@@ -125,3 +125,106 @@ I will continue updating this repository as I learn more.
 
 This is a personal learning project.
 I will keep improving it as I continue my Italian learning journey.
+
+
+
+## 🚀 How to Run (Step-by-Step)
+
+Follow these steps to run the project on your own machine:
+
+### 1. Install Python Requirements
+
+Make sure Python is installed, then run:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+### 2. Install Anki and AnkiConnect
+
+1. Install **Anki Desktop**
+2. Open Anki
+3. Go to:
+   `Tools → Add-ons → Get Add-ons`
+4. Enter this code:
+
+```
+2055492159
+```
+
+5. Click OK and restart Anki
+
+👉 Important: Keep Anki open while running the script
+
+---
+
+### 3. Prepare Your Input File
+
+Go to the `pages/` folder and create a file like:
+
+```bash
+pages/page_1.txt
+```
+
+Add content like this:
+
+```
+FORM: nata
+WORD: nascere
+BN: জন্মগ্রহণ করা
+SYNONYMS: venire al mondo
+PRESENT: nasco, nasci, nasce, nasciamo, nascete, nascono
+PAST: sono nato/a, sei nato/a, è nato/a, siamo nati/e, siete nati/e, sono nati/e
+FUTURE: nascerò, nascerai, nascerà, nasceremo, nascerete, nasceranno
+EXAMPLE_IT: Sono nata a Roma.
+EXAMPLE_BN: আমি রোমে জন্মেছি।
+---
+```
+
+---
+
+### 4. Run the Script
+
+Open Command Prompt and run:
+
+```bash
+python anki_page_importer.py --root-deck "Italian-Flashcards" --page "Page-1" --txt "pages/page_1.txt"
+```
+
+---
+
+### 5. Check Anki
+
+* Open Anki
+* You will see a new deck:
+  `Italian-Flashcards → Page-1`
+* Your flashcards will be created automatically
+
+---
+
+### 🔁 Add More Pages
+
+For a new page:
+
+1. Create a new file:
+
+```
+pages/page_2.txt
+```
+
+2. Run:
+
+```bash
+python anki_page_importer.py --root-deck "Italian-Flashcards" --page "Page-2" --txt "pages/page_2.txt"
+```
+
+---
+
+### ⚠️ Notes
+
+* File name and page name should match (page_1 → Page-1)
+* Each card must end with `---`
+* Keep Anki open while running the script
+
