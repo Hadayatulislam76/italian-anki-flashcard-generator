@@ -1,4 +1,4 @@
-# Italian (Language) Anki Flashcard Generator (Python Automation Tool)
+# Italian Anki Flashcard Generator (Python Automation Tool)
 
 This is a simple Python project I built to improve my Italian learning process in a more structured and efficient way.
 
