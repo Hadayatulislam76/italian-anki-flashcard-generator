@@ -1,0 +1,330 @@
+FORM: nata
+WORD: nascere
+BN: জন্মগ্রহণ করা
+SYNONYMS: venire al mondo
+PRESENT: nasco, nasci, nasce, nasciamo, nascete, nascono
+PAST: sono nato/a, sei nato/a, è nato/a, siamo nati/e, siete nati/e, sono nati/e
+FUTURE: nascerò, nascerai, nascerà, nasceremo, nascerete, nasceranno
+EXAMPLE_IT: Sono nata a Roma.
+EXAMPLE_BN: আমি রোমে জন্মেছি।
+---
+FORM: studiato
+WORD: studiare
+BN: পড়াশোনা করা
+SYNONYMS: imparare, apprendere
+PRESENT: studio, studi, studia, studiamo, studiate, studiano
+PAST: ho studiato, hai studiato, ha studiato, abbiamo studiato, avete studiato, hanno studiato
+FUTURE: studierò, studierai, studierà, studieremo, studierete, studieranno
+EXAMPLE_IT: Ho studiato italiano.
+EXAMPLE_BN: আমি ইতালিয়ান পড়েছি।
+---
+FORM: frequentato
+WORD: frequentare
+BN: উপস্থিত থাকা / পড়া
+SYNONYMS: seguire, partecipare
+PRESENT: frequento, frequenti, frequenta, frequentiamo, frequentate, frequentano
+PAST: ho frequentato, hai frequentato, ha frequentato, abbiamo frequentato, avete frequentato, hanno frequentato
+FUTURE: frequenterò, frequenterai, frequenterà, frequenteremo, frequenterete, frequenteranno
+EXAMPLE_IT: Ho frequentato la scuola media.
+EXAMPLE_BN: আমি মাধ্যমিক স্কুলে পড়েছি।
+---
+FORM: elementare
+WORD: elementare
+BN: প্রাথমিক
+SYNONYMS: basilare, primario
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: Ho frequentato la scuola elementare.
+EXAMPLE_BN: আমি প্রাথমিক স্কুলে পড়েছি।
+---
+FORM: media
+WORD: media
+BN: মাধ্যমিক
+SYNONYMS: intermedia
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: Dopo la scuola elementare, ho fatto la scuola media.
+EXAMPLE_BN: প্রাথমিক স্কুলের পরে আমি মাধ্যমিক স্কুল করেছি।
+---
+FORM: poi
+WORD: poi
+BN: তারপর
+SYNONYMS: dopo, successivamente
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: Poi sono andata a Milano.
+EXAMPLE_BN: তারপর আমি মিলানে গিয়েছিলাম।
+---
+FORM: dopo
+WORD: dopo
+BN: পরে
+SYNONYMS: poi, successivamente
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: Dopo ho lavorato come insegnante.
+EXAMPLE_BN: পরে আমি শিক্ষক হিসেবে কাজ করেছি।
+---
+FORM: all’età
+WORD: età
+BN: বয়স
+SYNONYMS: anni
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: All’età di dieci anni mi sono trasferita.
+EXAMPLE_BN: দশ বছর বয়সে আমি স্থানান্তরিত হয়েছিলাম।
+---
+FORM: trasferita
+WORD: trasferirsi
+BN: স্থানান্তর হওয়া
+SYNONYMS: spostarsi, cambiare residenza
+PRESENT: mi trasferisco, ti trasferisci, si trasferisce, ci trasferiamo, vi trasferite, si trasferiscono
+PAST: mi sono trasferito/a, ti sei trasferito/a, si è trasferito/a, ci siamo trasferiti/e, vi siete trasferiti/e, si sono trasferiti/e
+FUTURE: mi trasferirò, ti trasferirai, si trasferirà, ci trasferiremo, vi trasferirete, si trasferiranno
+EXAMPLE_IT: Mi sono trasferita a Genova.
+EXAMPLE_BN: আমি জেনোয়ায় স্থানান্তরিত হয়েছি।
+---
+FORM: abitato
+WORD: abitare
+BN: বসবাস করা
+SYNONYMS: vivere, risiedere
+PRESENT: abito, abiti, abita, abitiamo, abitate, abitano
+PAST: ho abitato, hai abitato, ha abitato, abbiamo abitato, avete abitato, hanno abitato
+FUTURE: abiterò, abiterai, abiterà, abiteremo, abiterete, abiteranno
+EXAMPLE_IT: Ho abitato lì per molti anni.
+EXAMPLE_BN: আমি সেখানে অনেক বছর বসবাস করেছি।
+---
+FORM: laureata
+WORD: laurearsi
+BN: স্নাতক হওয়া
+SYNONYMS: diplomarsi
+PRESENT: mi laureo, ti laurei, si laurea, ci laureiamo, vi laureate, si laureano
+PAST: mi sono laureato/a, ti sei laureato/a, si è laureato/a, ci siamo laureati/e, vi siete laureati/e, si sono laureati/e
+FUTURE: mi laureerò, ti laureerai, si laureerà, ci laureeremo, vi laureerete, si laureeranno
+EXAMPLE_IT: Mi sono laureata all’università.
+EXAMPLE_BN: আমি বিশ্ববিদ্যালয় থেকে স্নাতক হয়েছি।
+---
+FORM: tornata
+WORD: tornare
+BN: ফিরে আসা
+SYNONYMS: rientrare, ritornare
+PRESENT: torno, torni, torna, torniamo, tornate, tornano
+PAST: sono tornato/a, sei tornato/a, è tornato/a, siamo tornati/e, siete tornati/e, sono tornati/e
+FUTURE: tornerò, tornerai, tornerà, torneremo, tornerete, torneranno
+EXAMPLE_IT: Sono tornata a casa.
+EXAMPLE_BN: আমি বাড়ি ফিরে এসেছি।
+---
+FORM: fatto
+WORD: fare
+BN: করা
+SYNONYMS: eseguire, realizzare
+PRESENT: faccio, fai, fa, facciamo, fate, fanno
+PAST: ho fatto, hai fatto, ha fatto, abbiamo fatto, avete fatto, hanno fatto
+FUTURE: farò, farai, farà, faremo, farete, faranno
+EXAMPLE_IT: Ho fatto i compiti.
+EXAMPLE_BN: আমি বাড়ির কাজ করেছি।
+---
+FORM: l’insegnante
+WORD: insegnante
+BN: শিক্ষক
+SYNONYMS: docente, professore/professoressa
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: Lei fa l’insegnante.
+EXAMPLE_BN: তিনি শিক্ষকতার কাজ করেন।
+---
+FORM: conosciuto
+WORD: conoscere
+BN: পরিচিত হওয়া / চেনা
+SYNONYMS: incontrare, sapere chi è
+PRESENT: conosco, conosci, conosce, conosciamo, conoscete, conoscono
+PAST: ho conosciuto, hai conosciuto, ha conosciuto, abbiamo conosciuto, avete conosciuto, hanno conosciuto
+FUTURE: conoscerò, conoscerai, conoscerà, conosceremo, conoscerete, conosceranno
+EXAMPLE_IT: Ho conosciuto mio marito a scuola.
+EXAMPLE_BN: আমি আমার স্বামীকে স্কুলে চিনেছি।
+---
+FORM: anni
+WORD: anno
+BN: বছর
+SYNONYMS: -
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: Ho vissuto lì per molti anni.
+EXAMPLE_BN: আমি সেখানে অনেক বছর থেকেছি।
+---
+FORM: ci siamo
+WORD: esserci
+BN: আমরা ছিলাম / আমরা হয়েছি
+SYNONYMS: -
+PRESENT: ci sono, ci sei, c’è, ci siamo, ci siete, ci sono
+PAST: ci sono stato/a, ci sei stato/a, c’è stato/a, ci siamo stati/e, ci siete stati/e, ci sono stati/e
+FUTURE: ci sarò, ci sarai, ci sarà, ci saremo, ci sarete, ci saranno
+EXAMPLE_IT: Ci siamo sposati nel 2010.
+EXAMPLE_BN: আমরা ২০১০ সালে বিয়ে করেছি।
+---
+FORM: sposati
+WORD: sposarsi
+BN: বিয়ে করা
+SYNONYMS: unirsi in matrimonio
+PRESENT: mi sposo, ti sposi, si sposa, ci sposiamo, vi sposate, si sposano
+PAST: mi sono sposato/a, ti sei sposato/a, si è sposato/a, ci siamo sposati/e, vi siete sposati/e, si sono sposati/e
+FUTURE: mi sposerò, ti sposerai, si sposerà, ci sposeremo, vi sposerete, si sposeranno
+EXAMPLE_IT: Ci siamo sposati l’anno scorso.
+EXAMPLE_BN: আমরা গত বছর বিয়ে করেছি।
+---
+FORM: andati
+WORD: andare
+BN: যাওয়া
+SYNONYMS: recarsi, partire
+PRESENT: vado, vai, va, andiamo, andate, vanno
+PAST: sono andato/a, sei andato/a, è andato/a, siamo andati/e, siete andati/e, sono andati/e
+FUTURE: andrò, andrai, andrà, andremo, andrete, andranno
+EXAMPLE_IT: Siamo andati a vivere insieme.
+EXAMPLE_BN: আমরা একসাথে থাকতে গিয়েছিলাম।
+---
+FORM: abbiamo
+WORD: avere
+BN: থাকা / আমাদের আছে
+SYNONYMS: possedere
+PRESENT: ho, hai, ha, abbiamo, avete, hanno
+PAST: ho avuto, hai avuto, ha avuto, abbiamo avuto, avete avuto, hanno avuto
+FUTURE: avrò, avrai, avrà, avremo, avrete, avranno
+EXAMPLE_IT: Abbiamo comprato una casa.
+EXAMPLE_BN: আমরা একটি বাড়ি কিনেছি।
+---
+FORM: comprato
+WORD: comprare
+BN: কেনা
+SYNONYMS: acquistare
+PRESENT: compro, compri, compra, compriamo, comprate, comprano
+PAST: ho comprato, hai comprato, ha comprato, abbiamo comprato, avete comprato, hanno comprato
+FUTURE: comprerò, comprerai, comprerà, compreremo, comprerete, compreranno
+EXAMPLE_IT: Abbiamo comprato una casa.
+EXAMPLE_BN: আমরা একটি বাড়ি কিনেছি।
+---
+FORM: fa
+WORD: fare
+BN: আগে / করে
+SYNONYMS: -
+PRESENT: faccio, fai, fa, facciamo, fate, fanno
+PAST: ho fatto, hai fatto, ha fatto, abbiamo fatto, avete fatto, hanno fatto
+FUTURE: farò, farai, farà, faremo, farete, faranno
+EXAMPLE_IT: Tre anni fa abbiamo comprato casa.
+EXAMPLE_BN: তিন বছর আগে আমরা বাড়ি কিনেছি।
+---
+FORM: nostro
+WORD: nostro
+BN: আমাদের
+SYNONYMS: di noi
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: Questo è il nostro appartamento.
+EXAMPLE_BN: এটা আমাদের অ্যাপার্টমেন্ট।
+---
+FORM: stata
+WORD: essere
+BN: ছিল / হয়েছে
+SYNONYMS: -
+PRESENT: sono, sei, è, siamo, siete, sono
+PAST: sono stato/a, sei stato/a, è stato/a, siamo stati/e, siete stati/e, sono stati/e
+FUTURE: sarò, sarai, sarà, saremo, sarete, saranno
+EXAMPLE_IT: È stata una bella esperienza.
+EXAMPLE_BN: এটা একটি সুন্দর অভিজ্ঞতা ছিল।
+---
+FORM: scorso
+WORD: scorso
+BN: গত
+SYNONYMS: passato
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: L’anno scorso abbiamo cambiato casa.
+EXAMPLE_BN: গত বছর আমরা বাসা বদলেছি।
+---
+FORM: ricominciato
+WORD: ricominciare
+BN: আবার শুরু করা
+SYNONYMS: riprendere, ricominciare da capo
+PRESENT: ricomincio, ricominci, ricomincia, ricominciamo, ricominciate, ricominciano
+PAST: ho ricominciato, hai ricominciato, ha ricominciato, abbiamo ricominciato, avete ricominciato, hanno ricominciato
+FUTURE: ricomincerò, ricomincerai, ricomincerà, ricominceremo, ricomincerete, ricominceranno
+EXAMPLE_IT: Ho ricominciato a insegnare.
+EXAMPLE_BN: আমি আবার পড়ানো শুরু করেছি।
+---
+FORM: insegnare
+WORD: insegnare
+BN: শেখানো
+SYNONYMS: educare, istruire
+PRESENT: insegno, insegni, insegna, insegniamo, insegnate, insegnano
+PAST: ho insegnato, hai insegnato, ha insegnato, abbiamo insegnato, avete insegnato, hanno insegnato
+FUTURE: insegnerò, insegnerai, insegnerà, insegneremo, insegnerete, insegneranno
+EXAMPLE_IT: Insegno italiano agli stranieri.
+EXAMPLE_BN: আমি বিদেশিদের ইতালিয়ান শেখাই।
+---
+FORM: nei
+WORD: in + i
+BN: তে / এর মধ্যে (plural masculine)
+SYNONYMS: dentro i
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: Lavoro nei corsi serali.
+EXAMPLE_BN: আমি সন্ধ্যার কোর্সগুলোতে কাজ করি।
+---
+FORM: stranieri
+WORD: straniero
+BN: বিদেশি
+SYNONYMS: estero, non italiano
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: Insegno agli studenti stranieri.
+EXAMPLE_BN: আমি বিদেশি ছাত্রদের পড়াই।
+---
+FORM: sottolinea
+WORD: sottolineare
+BN: আন্ডারলাইন করে / জোর দেয়
+SYNONYMS: evidenziare, mettere in risalto
+PRESENT: sottolineo, sottolinei, sottolinea, sottolineiamo, sottolineate, sottolineano
+PAST: ho sottolineato, hai sottolineato, ha sottolineato, abbiamo sottolineato, avete sottolineato, hanno sottolineato
+FUTURE: sottolineerò, sottolineerai, sottolineerà, sottolineeremo, sottolineerete, sottolineeranno
+EXAMPLE_IT: Il libro sottolinea le parole importanti.
+EXAMPLE_BN: বইটি গুরুত্বপূর্ণ শব্দগুলো আন্ডারলাইন করে।
+---
+FORM: nella
+WORD: in + la
+BN: তে / এর মধ্যে (feminine singular)
+SYNONYMS: dentro la
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: Scrivi nella prima riga.
+EXAMPLE_BN: প্রথম লাইনে লেখো।
+---
+FORM: scrivili
+WORD: scrivere
+BN: এগুলো লিখো
+SYNONYMS: annotali
+PRESENT: scrivo, scrivi, scrive, scriviamo, scrivete, scrivono
+PAST: ho scritto, hai scritto, ha scritto, abbiamo scritto, avete scritto, hanno scritto
+FUTURE: scriverò, scriverai, scriverà, scriveremo, scriverete, scriveranno
+EXAMPLE_IT: Se sono importanti, scrivili.
+EXAMPLE_BN: যদি এগুলো গুরুত্বপূর্ণ হয়, তবে এগুলো লিখে রাখো।
+---
+FORM: posto
+WORD: posto
+BN: জায়গা
+SYNONYMS: luogo, posizione
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: Questo posto è tranquillo.
+EXAMPLE_BN: এই জায়গাটি শান্ত।
+---
