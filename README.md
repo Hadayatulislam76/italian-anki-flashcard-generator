@@ -59,7 +59,6 @@ For each page:
 italian-anki-flashcard-generator/
 ├── anki_page_importer.py
 ├── requirements.txt
-├── cards.txt
 └── pages/
     ├── page_1.txt
     ├── page_2.txt
@@ -82,18 +81,6 @@ FUTURE: nascerò, nascerai, nascerà, nasceremo, nascerete, nasceranno
 EXAMPLE_IT: Sono nata a Roma.
 EXAMPLE_BN: আমি রোমে জন্মেছি।
 ---
-```
-
----
-
-## ▶️ How to Run
-
-1. Open Command Prompt (CMD)
-2. Go to your project folder
-3. Run:
-
-```
-python anki_page_importer.py --root-deck "Italian-Flashcards" --page "Page-1" --txt "pages/page_1.txt"
 ```
 
 ---
