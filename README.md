@@ -82,6 +82,23 @@ EXAMPLE_IT: Sono nata a Roma.
 EXAMPLE_BN: আমি রোমে জন্মেছি।
 ---
 ```
+## 📸 Example Output
+
+### 🔹 Anki Flashcard
+
+![Anki Card](images/anki_card_example.png)
+
+---
+
+### 🔹 Deck Structure
+
+![Deck](images/anki_deck_structure.png)
+
+---
+
+### 🔹 Script Execution
+
+![Execution](images/script_execution.png)
 
 ---
 
