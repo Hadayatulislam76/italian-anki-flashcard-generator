@@ -68,7 +68,7 @@ italian-anki-flashcard-generator/
 
 ---
 
-## 📄 Example Input and Output
+## 📄 Example Input
 
 ```
 FORM: nata
