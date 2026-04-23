@@ -1,0 +1,250 @@
+FORM: liceo
+WORD: liceo
+BN: উচ্চ মাধ্যমিক স্কুল
+SYNONYMS: scuola superiore
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: Ho studiato al liceo.
+EXAMPLE_BN: আমি উচ্চ মাধ্যমিক স্কুলে পড়েছি।
+---
+FORM: vicino
+WORD: vicino
+BN: কাছাকাছি
+SYNONYMS: prossimo
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: Vivo vicino alla scuola.
+EXAMPLE_BN: আমি স্কুলের কাছে থাকি।
+---
+FORM: cresciuto
+WORD: crescere
+BN: বড় হওয়া
+SYNONYMS: svilupparsi
+PRESENT: cresco, cresci, cresce, cresciamo, crescete, crescono
+PAST: sono cresciuto/a
+FUTURE: crescerò, crescerai, crescerà, cresceremo, crescerete, cresceranno
+EXAMPLE_IT: Sono cresciuto in Italia.
+EXAMPLE_BN: আমি ইতালিতে বড় হয়েছি।
+---
+FORM: smesso
+WORD: smettere
+BN: বন্ধ করা
+SYNONYMS: interrompere
+PRESENT: smetto, smetti, smette, smettiamo, smettete, smettono
+PAST: ho smesso
+FUTURE: smetterò, smetterai, smetterà, smetteremo, smetterete, smetteranno
+EXAMPLE_IT: Ho smesso di fumare.
+EXAMPLE_BN: আমি ধূমপান বন্ধ করেছি।
+---
+FORM: arrestato
+WORD: arrestare
+BN: গ্রেফতার করা
+SYNONYMS: fermare
+PRESENT: arresto, arresti, arresta, arrestiamo, arrestate, arrestano
+PAST: ho arrestato
+FUTURE: arresterò, arresterai, arresterà, arresteremo, arresterete, arresteranno
+EXAMPLE_IT: La polizia ha arrestato l’uomo.
+EXAMPLE_BN: পুলিশ লোকটিকে গ্রেফতার করেছে।
+---
+FORM: politici
+WORD: politico
+BN: রাজনীতিবিদ
+SYNONYMS: -
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: I politici parlano molto.
+EXAMPLE_BN: রাজনীতিবিদরা অনেক কথা বলে।
+---
+FORM: allora
+WORD: allora
+BN: তখন / তাই
+SYNONYMS: quindi
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: Allora ho deciso di partire.
+EXAMPLE_BN: তখন আমি যাওয়ার সিদ্ধান্ত নিলাম।
+---
+FORM: sorellina
+WORD: sorella
+BN: ছোট বোন
+SYNONYMS: -
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: Ho una sorellina.
+EXAMPLE_BN: আমার একটি ছোট বোন আছে।
+---
+FORM: sistemazione
+WORD: sistemazione
+BN: থাকার ব্যবস্থা
+SYNONYMS: alloggio
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: Cerco una sistemazione migliore.
+EXAMPLE_BN: আমি একটি ভালো থাকার ব্যবস্থা খুঁজছি।
+---
+FORM: migliore
+WORD: migliore
+BN: আরও ভালো
+SYNONYMS: migliore qualità
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: Voglio una vita migliore.
+EXAMPLE_BN: আমি একটি ভালো জীবন চাই।
+---
+FORM: poter
+WORD: potere
+BN: পারা
+SYNONYMS: riuscire
+PRESENT: posso, puoi, può, possiamo, potete, possono
+PAST: ho potuto
+FUTURE: potrò, potrai, potrà, potremo, potrete, potranno
+EXAMPLE_IT: Posso aiutarti.
+EXAMPLE_BN: আমি তোমাকে সাহায্য করতে পারি।
+---
+FORM: azienda
+WORD: azienda
+BN: কোম্পানি
+SYNONYMS: impresa
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: Lavoro in un’azienda.
+EXAMPLE_BN: আমি একটি কোম্পানিতে কাজ করি।
+---
+FORM: mai
+WORD: mai
+BN: কখনও না
+SYNONYMS: -
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: Non ho mai visto questo.
+EXAMPLE_BN: আমি এটা কখনও দেখিনি।
+---
+FORM: stipendio
+WORD: stipendio
+BN: বেতন
+SYNONYMS: salario
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: Ricevo uno stipendio mensile.
+EXAMPLE_BN: আমি মাসিক বেতন পাই।
+---
+FORM: hanno
+WORD: avere
+BN: তারা আছে
+SYNONYMS: possedere
+PRESENT: ho, hai, ha, abbiamo, avete, hanno
+PAST: hanno avuto
+FUTURE: avranno
+EXAMPLE_IT: Hanno un lavoro.
+EXAMPLE_BN: তাদের একটি কাজ আছে।
+---
+FORM: giovani
+WORD: giovane
+BN: যুবক / তরুণ
+SYNONYMS: ragazzi
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: I giovani studiano.
+EXAMPLE_BN: তরুণরা পড়াশোনা করে।
+---
+FORM: neri
+WORD: nero
+BN: কালো / কৃষ্ণাঙ্গ
+SYNONYMS: -
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: Ci sono persone nere.
+EXAMPLE_BN: সেখানে কৃষ্ণাঙ্গ মানুষ আছে।
+---
+FORM: datore
+WORD: datore
+BN: নিয়োগকর্তা
+SYNONYMS: capo
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: Il datore di lavoro paga bene.
+EXAMPLE_BN: নিয়োগকর্তা ভালো বেতন দেয়।
+---
+FORM: prigione
+WORD: prigione
+BN: কারাগার
+SYNONYMS: carcere
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: È in prigione.
+EXAMPLE_BN: সে কারাগারে আছে।
+---
+FORM: partito
+WORD: partire
+BN: রওনা দেওয়া
+SYNONYMS: andare via
+PRESENT: parto, parti, parte, partiamo, partite, partono
+PAST: sono partito/a
+FUTURE: partirò, partirai, partirà, partiremo, partirete, partiranno
+EXAMPLE_IT: Sono partito ieri.
+EXAMPLE_BN: আমি গতকাল রওনা দিয়েছি।
+---
+FORM: barcone
+WORD: barcone
+BN: বড় নৌকা
+SYNONYMS: barca grande
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: Sono arrivati con un barcone.
+EXAMPLE_BN: তারা একটি বড় নৌকায় এসেছে।
+---
+FORM: salvato
+WORD: salvare
+BN: বাঁচানো
+SYNONYMS: proteggere
+PRESENT: salvo, salvi, salva, salviamo, salvate, salvano
+PAST: ho salvato
+FUTURE: salverò, salverai, salverà, salveremo, salverete, salveranno
+EXAMPLE_IT: Mi ha salvato la vita.
+EXAMPLE_BN: সে আমার জীবন বাঁচিয়েছে।
+---
+FORM: la vita
+WORD: vita
+BN: জীবন
+SYNONYMS: esistenza
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: La vita è bella.
+EXAMPLE_BN: জীবন সুন্দর।
+---
+FORM: servire
+WORD: servire
+BN: প্রয়োজন হওয়া / কাজে লাগা
+SYNONYMS: essere utile
+PRESENT: servo, servi, serve, serviamo, servite, servono
+PAST: è servito
+FUTURE: servirà
+EXAMPLE_IT: Questo serve molto.
+EXAMPLE_BN: এটা অনেক কাজে লাগে।
+---
+FORM: rigrazione
+WORD: migrazione
+BN: অভিবাসন
+SYNONYMS: immigrazione
+PRESENT: -
+PAST: -
+FUTURE: -
+EXAMPLE_IT: La migrazione è un problema globale.
+EXAMPLE_BN: অভিবাসন একটি বৈশ্বিক সমস্যা।
+---
